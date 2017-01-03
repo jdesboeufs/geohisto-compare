@@ -9,5 +9,8 @@
     "iconv-lite": "^0.4.15",
     "lodash": "^4.17.4",
     "through2": "^2.0.3"
+  },
+  "scripts": {
+    "start": "node index"
   }
 }
